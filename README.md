@@ -4,9 +4,7 @@ jessie-custom Terminal Theme
 ### Description
 
 This is my Mac terminal profile and configuration for default macos terminal.app .
-
 The custom terminal theme is edited from the file:`$ZSH/themes/alanpeabody`
-
 Created: 2021-08-11
 
 ### Usage
