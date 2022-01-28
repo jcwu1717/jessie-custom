@@ -11,7 +11,7 @@ Created: 2021-08-11
 1. Install `zsh` . Change the default shell to zsh in your terminal setting.
 2. Install `oh-my-zsh` via curl
     `sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-3. Copy the file to `$ZSH_CUSTOM/themes`.
+3. Copy the file `jessie-custom.zsh-theme` to `$ZSH_CUSTOM/themes`.
     
     The path of $ZSH_CUSTOM can be found by running ` echo $ZSH_CUSTOM` in the terminal.
 3. Change `.zshrc` file
